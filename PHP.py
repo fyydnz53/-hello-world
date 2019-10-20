@@ -1,1 +1,3 @@
-df main（）P：
+  x=int（）  
+  y=x+1
+  
